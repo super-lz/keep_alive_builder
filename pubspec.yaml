@@ -1,6 +1,6 @@
 name: keep_alive_builder
 description: If need keep state, replace FutureBuilder or StreamBuilder with keep_alive_builder's components.
-version: 1.0.0
+version: 1.1.0
 homepage: https://github.com/super-lz/keep_alive_builder
 
 environment:
