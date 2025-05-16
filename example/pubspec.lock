@@ -76,7 +76,7 @@ packages:
     source: sdk
     version: "0.0.0"
   keep_alive_builder:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       path: ".."
       relative: true
